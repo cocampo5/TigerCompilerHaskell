@@ -1,0 +1,7 @@
+/*
+ function sequence
+ */
+let function sequence() =
+    print("One test\n")~
+    print("Two tests\")
+   in sequence end

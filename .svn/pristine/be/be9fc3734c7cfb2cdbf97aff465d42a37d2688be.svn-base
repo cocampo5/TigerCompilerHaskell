@@ -1,0 +1,7 @@
+/*
+ Function nothing2
+*/
+let function nothing2() =
+    print("Nothing");
+    print("Nothing\~");
+    in nothing2() end

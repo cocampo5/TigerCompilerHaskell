@@ -1,0 +1,6 @@
+/*
+ Function compare
+*/
+let function compare ( a:int, b:int): int
+    if a >= b then a else b
+    in compare(10,12) end

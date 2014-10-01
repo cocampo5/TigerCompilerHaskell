@@ -1,0 +1,3 @@
+/* Hello-world */
+let function hello() = print("Hello, World!")
+   in hello() end

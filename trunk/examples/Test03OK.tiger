@@ -1,0 +1,5 @@
+/*
+ Function decr
+*/
+let function decr ( i : int) : int = i - 1
+    in decr(10) end
