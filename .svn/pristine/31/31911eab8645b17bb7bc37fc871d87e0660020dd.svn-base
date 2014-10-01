@@ -1,5 +1,0 @@
-/*
- Function incr
-*/
-let function incr ( i : int) : int = i ? i 
-    in incr(10) end
